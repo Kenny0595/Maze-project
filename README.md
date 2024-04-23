@@ -18,7 +18,7 @@ Simple DirectMedia Layer is a cross-platform development library designed to pro
 
 ## Instalation 
 ```sh
-$ git clone https://github.com/Ad3b1y1/Maze-project.git
+$ git clone https://github.com/labaski/Maze-project.git
 ```
 ## Usage 
 * Execute ./maze or type make run 
